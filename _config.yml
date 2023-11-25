@@ -91,7 +91,7 @@ output: "web"
 # directory in each book's directory, and then to any
 # subdirectories you create per set. Default is images/web.
 # This is overriden in output-specific config files in _configs/.
-image-set: "images/web"
+image-set: "psychoacoustique/images/web"
 
 # Files to exclude from Jekyll build
 # ----------------------------------
