@@ -1,17 +1,17 @@
 # The name of the organisation or entity that owns this project
-organisation: "Electric Book Works"
+organisation: "Centre national de la recherche scientifique (CNRS)"
 
 # A live web address for the organisation
-url: "http://ebw.co/template"
+url: "https://www.cnrs.fr/fr"
 
 # The default contact email address
-email: "support@electricbookworks.com"
+email: "leo.varnet@cnrs.fr"
 
 # The name of the project of books in this folder.
-name: "The Electric Book template"
+name: "Psychoacoustique"
 
 # A one-liner about this project. Useful for Open Graph metadata.
-description: "This is Electric Book template, a way to build websites, books and ebooks from the same master content. Created and maintained by Electric Book Works."
+description: "Psychoacoustics texbook in French."
 
 # The logo of the organisation, saved web-ready in /assets
 logo: "logo.svg"
@@ -23,7 +23,7 @@ image: "cover.jpg"
 credit: "Built with the [Electric Book](https://ebw.co/template)"
 
 # Primary language code for this project as a whole
-language: "en"
+language: "fr"
 
 # App bundle ID unique across all app stores
 app-id: com.example.myapp
