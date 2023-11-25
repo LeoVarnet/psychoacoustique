@@ -15,7 +15,13 @@ Ce manuel a pour vocation de présenter une vue globale de la psychoacoustique, 
 Cet ouvrage est publié sous une licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 ![alt = CC-BY-NC-SA](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/120px-Cc-by-nc-sa_icon.svg.png) 
 {% include image file="Cc-by-nc-sa-320.jpg" %}
-![A description of the image]({{ site.image-set }}/Cc-by-nc-sa-320.jpg)
+![A description of the image 1]({{ site.image-set }}/Cc-by-nc-sa-320.jpg)
+{% include image file="Cc-by-nc-sa-320.jpg" %}
+![A description of the image 2](Cc-by-nc-sa-320.jpg)
+{% include image file="Cc-by-nc-sa-320.jpg" %}
+![A description of the image 2](images/web/Cc-by-nc-sa-320.jpg)
+
+Si vous remarquez une erreur, n'hésitez pas à la signaler sur la [page GitHub](https://github.com/LeoVarnet/psychoacoustique) de cette ressource éducative ouverte.
 
 **Sommaire**
 
