@@ -10,7 +10,7 @@ style: cover
 {:/comment}
 
 
-![cover](images/web/cover.jpg)
+![cover](images/web/cover-640.jpg)
 
 **Introduction générale à la psychoacoustique**
 
