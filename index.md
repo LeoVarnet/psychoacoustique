@@ -7,6 +7,8 @@ style: home
 
 {% include metadata %}
 
-Pour consulter le manuel de psychoacoustique en ligne, [cliquez ici](psychoacoustique/index.html).
+# Manuel de psychoacoustique, page générale
 
-Plus tard cette page incluera également des liens vers les version epub et pdf du manuel.
+Pour consulter le **manuel de psychoacoustique en ligne**, [cliquez ici](psychoacoustique/index.html).
+
+Plus tard cette page incluera également des liens vers les versions **epub** et **pdf** du manuel.
