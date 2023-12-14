@@ -26,11 +26,19 @@ Cet ouvrage est publié sous une licence [CC-BY-NC-SA](https://creativecommons.o
 
 1. [Les bases de la méthodologie psychophysique](01.html)
 2. [La théorie de la détection du signal](02.html)
-3. Perception de l'intensité sonore
-4. Perception de la hauteur tonale
-5. Perception du timbre
-6. Audition binaurale et localisation auditive
-7. Analyse de Scènes Auditives
-8. Phonétique expérimentale
-9. Perception de la parole continue
-10. D'autres chapitres...
+3. Bases physiologiques de l'audition
+4. Sonie
+5. Hauteur tonale et fondamentale
+6. Timbre
+7. Audition spatiale
+8. Analyse de Scènes Auditives
+9. Phonétique expérimentale
+10. Perception de la parole continue
+11. Mémoire et attention auditive
+12. Pertes auditives et réhabilitation
+13. Modèles auditifs
+14. Apprentissage auditif
+15. Neuropsychologie de l'audition
+16. Perception musicale
+17. D'autres chapitres...
+18. Annexe 1 : Bases d'acoustique
